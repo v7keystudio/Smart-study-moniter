@@ -74,7 +74,7 @@ Smart-Study-Monitor/
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/Smart-Study-Monitor.git
+git clone https://github.com/v7keystudio/Smart-study-moniter.git
 cd Smart-Study-Monitor
 
 2. Install dependencies
